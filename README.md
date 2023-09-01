@@ -9,7 +9,7 @@
 3) Implemente um código em Python que leia o arquivo de texto gerado pelo código feito no passo 2, além de calcular o determinante da inversa de cada matriz. Ao final desse processo, forneça os cálculos feitos para o usuário em um formato de relatório. A figura abaixo mostra um diagrama que ilustra o funcionamento dos programas 1 e 2.
 
 <p align="center">
-  <img src="https://github.com/matheusdutra0207/sensorFusionRos/blob/main/etc/images/sensor_fusion_ekf.png" width="750" title="sensor fusion">
+  <img src="https://github.com/matheusdutra0207/Trabalho-1-ling-prog/blob/main/imagens/prog-1-2.png" width="350" title="prog 1 e 2">
 </p>
 
-5) O arquivo “pontos.txt” contém as coordenadas x e y da trajetória de um robô móvel, no qual os valores de x e y estão alternados, sendo o primeiro valor do arquivo um valor de x, o segundo valor, um valor de y e assim por diante. Dado esse arquivo, crie um algoritmo em Python para ler os pontos da trajetória do robô e criar uma animação semelhante à mostrada no vídeo deste [link](https://drive.google.com/file/d/1RU0ig82-Eht-aZXJTjmxA5kW5VU-i3Yn/view).
+5) O arquivo [pontos.txt]() contém as coordenadas x e y da trajetória de um robô móvel, no qual os valores de x e y estão alternados, sendo o primeiro valor do arquivo um valor de x, o segundo valor, um valor de y e assim por diante. Dado esse arquivo, crie um algoritmo em Python para ler os pontos da trajetória do robô e criar uma animação semelhante à mostrada no vídeo deste [link](https://github.com/matheusdutra0207/Trabalho-1-ling-prog/blob/main/arquivos/pontos.txt).
